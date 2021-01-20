@@ -1,5 +1,5 @@
 # GP_2021
-Gamma-OU Gillespie mini-project.
+Code to reproduce the figures and results in the preprint "Direct simulation of a stochastically driven multi-step birth-death process" by Gennady Gorin and Lior Pachter
 
 `gg_200921_gillespie_gou_2step_8.m` is the core stochastic simulation code.
 
