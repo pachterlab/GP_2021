@@ -1,4 +1,4 @@
-# GP_2020_3
+# GP_2021
 Gamma-OU Gillespie mini-project.
 
 `gg_200921_gillespie_gou_2step_8.m` is the core stochastic simulation code.
